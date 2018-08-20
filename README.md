@@ -1,1 +1,2 @@
-# kamote
+# Kamote
+## ang kamote ay halamang ugat.
